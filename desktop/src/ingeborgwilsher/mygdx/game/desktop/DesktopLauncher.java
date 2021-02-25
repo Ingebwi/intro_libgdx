@@ -4,7 +4,6 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 
 import ingeborgwilsher.mygdx.game.Ex1;
-import ingeborgwilsher.mygdx.game.Pong;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
